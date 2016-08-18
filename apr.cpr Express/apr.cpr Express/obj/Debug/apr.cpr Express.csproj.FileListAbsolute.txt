@@ -1,0 +1,406 @@
+c:\users\theoreticalthinking\documents\visual studio 2015\Projects\apr.cpr Express\apr.cpr Express\bin\Debug\apr.cpr Express.exe.config
+c:\users\theoreticalthinking\documents\visual studio 2015\Projects\apr.cpr Express\apr.cpr Express\bin\Debug\apr.cpr Express.exe
+c:\users\theoreticalthinking\documents\visual studio 2015\Projects\apr.cpr Express\apr.cpr Express\bin\Debug\apr.cpr Express.pdb
+c:\users\theoreticalthinking\documents\visual studio 2015\Projects\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr Express.csprojResolveAssemblyReference.cache
+c:\users\theoreticalthinking\documents\visual studio 2015\Projects\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.managerForm.resources
+c:\users\theoreticalthinking\documents\visual studio 2015\Projects\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.Properties.Resources.resources
+c:\users\theoreticalthinking\documents\visual studio 2015\Projects\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr Express.csproj.GenerateResource.Cache
+c:\users\theoreticalthinking\documents\visual studio 2015\Projects\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr Express.exe
+c:\users\theoreticalthinking\documents\visual studio 2015\Projects\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr Express.pdb
+c:\users\theoreticalthinking\documents\visual studio 2015\Projects\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.loginForm.resources
+C:\Users\TheoreticalThinking\Documents\Visual Studio 2015\Projects\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.employeeForm.resources
+C:\Users\TheoreticalThinking\Documents\Visual Studio 2015\Projects\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.registrForm.resources
+C:\Users\TheoreticalThinking\Documents\Visual Studio 2015\Projects\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.popUp.resources
+C:\Users\TheoreticalThinking\Documents\Visual Studio 2015\Projects\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.popUpPassword.resources
+C:\Users\TheoreticalThinking\Desktop\project\apr.cprExpress-dubl 2\apr.cpr Express fuck abalochka\apr.cpr Express\bin\Debug\apr.cpr Express.exe.config
+C:\Users\TheoreticalThinking\Desktop\project\apr.cprExpress-dubl 2\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\project\apr.cprExpress-dubl 2\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\project\apr.cprExpress-dubl 2\apr.cpr Express fuck abalochka\apr.cpr Express\bin\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\project\apr.cprExpress-dubl 2\apr.cpr Express fuck abalochka\apr.cpr Express\bin\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\project\apr.cprExpress-dubl 2\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr Express.csprojResolveAssemblyReference.cache
+C:\Users\TheoreticalThinking\Desktop\project\apr.cprExpress-dubl 2\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr_Express.employeeForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\apr.cprExpress-dubl 2\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr_Express.loginForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\apr.cprExpress-dubl 2\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr_Express.managerForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\apr.cprExpress-dubl 2\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr_Express.popUp.resources
+C:\Users\TheoreticalThinking\Desktop\project\apr.cprExpress-dubl 2\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr_Express.popUpPassword.resources
+C:\Users\TheoreticalThinking\Desktop\project\apr.cprExpress-dubl 2\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr_Express.Properties.Resources.resources
+C:\Users\TheoreticalThinking\Desktop\project\apr.cprExpress-dubl 2\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr_Express.registrForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\apr.cprExpress-dubl 2\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr Express.csproj.GenerateResource.Cache
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\bin\Debug\apr.cpr Express.exe.config
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\bin\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\bin\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\bin\Debug\EntityFramework.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\bin\Debug\EntityFramework.xml
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr_Express.employeeForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr_Express.loginForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr_Express.managerForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr_Express.popUp.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr_Express.popUpPassword.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr_Express.Properties.Resources.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr_Express.registrForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr Express.csproj.GenerateResource.Cache
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\RdlCompile.cache
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\RdlCompile.compiled
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr Express.csprojResolveAssemblyReference.cache
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck abalochka\apr.cpr Express\obj\Debug\apr.cpr_Express.PopUpMessage.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\bin\Debug\apr.cpr Express.exe.config
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\bin\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\bin\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\bin\Debug\EntityFramework.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\bin\Debug\EntityFramework.xml
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr Express.csprojResolveAssemblyReference.cache
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.employeeForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.loginForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.managerForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.popUp.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.PopUpMessage.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.popUpPassword.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.Properties.Resources.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.registrForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr Express.csproj.GenerateResource.Cache
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\obj\Debug\RdlCompile.cache
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck\apr.cpr Express\obj\Debug\RdlCompile.compiled
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\bin\Debug\apr.cpr Express.exe.config
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\bin\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\bin\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\bin\Debug\EntityFramework.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\bin\Debug\EntityFramework.xml
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr Express.csprojResolveAssemblyReference.cache
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.employeeForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.loginForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.managerForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.popUp.resources
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.PopUpMessage.resources
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.popUpPassword.resources
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.Properties.Resources.resources
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.registrForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr Express.csproj.GenerateResource.Cache
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\obj\Debug\RdlCompile.cache
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck\apr.cpr Express\obj\Debug\RdlCompile.compiled
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\bin\Debug\apr.cpr Express.exe.config
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\bin\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\bin\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\bin\Debug\EntityFramework.dll
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\bin\Debug\EntityFramework.xml
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr Express.csprojResolveAssemblyReference.cache
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.employeeForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.loginForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.managerForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.popUp.resources
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.PopUpMessage.resources
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.popUpPassword.resources
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.Properties.Resources.resources
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr_Express.registrForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\obj\Debug\apr.cpr Express.csproj.GenerateResource.Cache
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\obj\Debug\RdlCompile.cache
+C:\Users\TheoreticalThinking\Desktop\project\final reserv\apr.cpr Express fuck\apr.cpr Express\obj\Debug\RdlCompile.compiled
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\bin\Debug\apr.cpr Express.exe.config
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\obj\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\obj\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\bin\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\bin\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\bin\Debug\EntityFramework.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\bin\Debug\EntityFramework.xml
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\obj\Debug\apr.cpr Express.csprojResolveAssemblyReference.cache
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\obj\Debug\apr.cpr_Express.employeeForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\obj\Debug\apr.cpr_Express.loginForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\obj\Debug\apr.cpr_Express.managerForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\obj\Debug\apr.cpr_Express.popUp.resources
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\obj\Debug\apr.cpr_Express.PopUpMessage.resources
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\obj\Debug\apr.cpr_Express.popUpPassword.resources
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\obj\Debug\apr.cpr_Express.Properties.Resources.resources
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\obj\Debug\apr.cpr_Express.registrForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\obj\Debug\apr.cpr Express.csproj.GenerateResource.Cache
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\obj\Debug\RdlCompile.cache
+C:\Users\TheoreticalThinking\Desktop\project\final\apr.cpr Express fuck nuka nuka\apr.cpr Express\obj\Debug\RdlCompile.compiled
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\bin\Debug\apr.cpr Express.exe.config
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\obj\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\obj\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\bin\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\bin\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\bin\Debug\EntityFramework.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\bin\Debug\EntityFramework.xml
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\obj\Debug\apr.cpr_Express.employeeForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\obj\Debug\apr.cpr_Express.loginForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\obj\Debug\apr.cpr_Express.managerForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\obj\Debug\apr.cpr_Express.popUp.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\obj\Debug\apr.cpr_Express.PopUpMessage.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\obj\Debug\apr.cpr_Express.popUpPassword.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\obj\Debug\apr.cpr_Express.Properties.Resources.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\obj\Debug\apr.cpr_Express.registrForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\obj\Debug\apr.cpr Express.csproj.GenerateResource.Cache
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\obj\Debug\RdlCompile.cache
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\obj\Debug\RdlCompile.compiled
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka2\apr.cpr Express\obj\Debug\apr.cpr Express.csprojResolveAssemblyReference.cache
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\bin\Debug\apr.cpr Express.exe.config
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\obj\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\obj\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\obj\Debug\apr.cpr_Express.employeeForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\obj\Debug\apr.cpr_Express.loginForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\obj\Debug\apr.cpr_Express.managerForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\obj\Debug\apr.cpr_Express.popUp.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\obj\Debug\apr.cpr_Express.PopUpMessage.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\obj\Debug\apr.cpr_Express.popUpPassword.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\obj\Debug\apr.cpr_Express.Properties.Resources.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\obj\Debug\apr.cpr_Express.registrForm.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\obj\Debug\apr.cpr Express.csproj.GenerateResource.Cache
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\obj\Debug\RdlCompile.cache
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\obj\Debug\RdlCompile.compiled
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\bin\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\bin\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\bin\Debug\EntityFramework.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\bin\Debug\EntityFramework.xml
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\obj\Debug\apr.cpr_Express.messageRoom.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\obj\Debug\apr.cpr_Express.messanger.resources
+C:\Users\TheoreticalThinking\Desktop\project\workplace\apr.cpr Express fuck nuka nuka test\apr.cpr Express\obj\Debug\apr.cpr Express.csprojResolveAssemblyReference.cache
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\bin\Debug\apr.cpr Express.exe.config
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\bin\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\bin\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\bin\Debug\EntityFramework.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\bin\Debug\EntityFramework.xml
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.employeeForm.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.loginForm.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.managerForm.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.messageRoom.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.messanger.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.popUp.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.PopUpMessage.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.popUpPassword.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.Properties.Resources.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.registrForm.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr Express.csproj.GenerateResource.Cache
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\obj\Debug\RdlCompile.cache
+C:\Users\TheoreticalThinking\Desktop\kaput\apr.cpr Express\apr.cpr Express\obj\Debug\RdlCompile.compiled
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\bin\Debug\apr.cpr Express.exe.config
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\bin\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\bin\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\bin\Debug\EntityFramework.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\bin\Debug\EntityFramework.xml
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr Express.csprojResolveAssemblyReference.cache
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.employeeForm.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.loginForm.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.managerForm.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.messageRoom.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.messanger.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.popUp.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.PopUpMessage.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.popUpPassword.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.Properties.Resources.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr_Express.registrForm.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\obj\Debug\apr.cpr Express.csproj.GenerateResource.Cache
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\obj\Debug\RdlCompile.cache
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express\apr.cpr Express\obj\Debug\RdlCompile.compiled
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\bin\Debug\apr.cpr Express.exe.config
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\bin\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\bin\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\bin\Debug\EntityFramework.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\bin\Debug\EntityFramework.xml
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr Express.csprojResolveAssemblyReference.cache
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr_Express.employeeForm.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr_Express.loginForm.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr_Express.managerForm.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr_Express.messageRoom.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr_Express.messanger.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr_Express.popUp.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr_Express.PopUpMessage.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr_Express.popUpPassword.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr_Express.Properties.Resources.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr_Express.registrForm.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr Express.csproj.GenerateResource.Cache
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\obj\Debug\RdlCompile.cache
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\apr.cpr Express - copia\apr.cpr Express\obj\Debug\RdlCompile.compiled
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\bin\Debug\apr.cpr Express.exe.config
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\bin\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\bin\Debug\apr.cpr Express.pdb
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\bin\Debug\EntityFramework.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\bin\Debug\EntityFramework.xml
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr Express.csprojResolveAssemblyReference.cache
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr_Express.employeeForm.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr_Express.loginForm.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr_Express.managerForm.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr_Express.messageRoom.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr_Express.messanger.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr_Express.popUp.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr_Express.PopUpMessage.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr_Express.popUpPassword.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr_Express.Properties.Resources.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr_Express.registrForm.resources
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\obj\Debug\apr.cpr Express.csproj.GenerateResource.Cache
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\obj\Debug\RdlCompile.cache
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express - copia\apr.cpr Express\obj\Debug\RdlCompile.compiled
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express final version\apr.cpr Express\bin\Debug\apr.cpr Express.exe.config
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express final version\apr.cpr Express\obj\Debug\apr.cpr Express.exe
+C:\Users\TheoreticalThinking\Desktop\kaput\sdelano\presentacion\apr.cpr Express final version\apr.cpr Express\obj\Debug\apr.cpr Express.pdb
+C:\Users\adm\Desktop\apr.cpr Express final version\apr.cpr Express\bin\Debug\apr.cpr Express.exe.config
+C:\Users\adm\Desktop\apr.cpr Express final version\apr.cpr Express\obj\Debug\apr.cpr Express.exe
+C:\Users\adm\Desktop\apr.cpr Express final version\apr.cpr Express\obj\Debug\apr.cpr Express.pdb

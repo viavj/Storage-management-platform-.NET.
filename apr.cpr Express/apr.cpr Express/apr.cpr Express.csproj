@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C0900C9A-918F-4B51-B72C-47698C1142A0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>apr.cpr_Express</RootNamespace>
+    <AssemblyName>apr.cpr Express</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="apr_cpr___ExpressDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>apr_cpr___ExpressDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="employeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="employeeForm.Designer.cs">
+      <DependentUpon>employeeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="loginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loginForm.Designer.cs">
+      <DependentUpon>loginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="managerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="managerForm.Designer.cs">
+      <DependentUpon>managerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="messageRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="messageRoom.Designer.cs">
+      <DependentUpon>messageRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="messanger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="messanger.Designer.cs">
+      <DependentUpon>messanger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="popUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="popUp.Designer.cs">
+      <DependentUpon>popUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUpMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUpMessage.Designer.cs">
+      <DependentUpon>PopUpMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="popUpPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="popUpPassword.Designer.cs">
+      <DependentUpon>popUpPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="registrForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registrForm.Designer.cs">
+      <DependentUpon>registrForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report.cs">
+      <DependentUpon>Model.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Storage.cs">
+      <DependentUpon>Model.tt</DependentUpon>
+    </Compile>
+    <Compile Include="UpComing.cs">
+      <DependentUpon>Model.tt</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs">
+      <DependentUpon>Model.tt</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="employeeForm.resx">
+      <DependentUpon>employeeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loginForm.resx">
+      <DependentUpon>loginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="managerForm.resx">
+      <DependentUpon>managerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="messageRoom.resx">
+      <DependentUpon>messageRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="messanger.resx">
+      <DependentUpon>messanger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="popUp.resx">
+      <DependentUpon>popUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUpMessage.resx">
+      <DependentUpon>PopUpMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="popUpPassword.resx">
+      <DependentUpon>popUpPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="registrForm.resx">
+      <DependentUpon>registrForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportProfit.rdlc" />
+    <EmbeddedResource Include="reportUpComing.rdlc" />
+    <None Include="apr_cpr___ExpressDataSet.xsc">
+      <DependentUpon>apr_cpr___ExpressDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="apr_cpr___ExpressDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>apr_cpr___ExpressDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="apr_cpr___ExpressDataSet.xss">
+      <DependentUpon>apr_cpr___ExpressDataSet.xsd</DependentUpon>
+    </None>
+    <EntityDeploy Include="Model.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Model.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Model.edmx.diagram">
+      <DependentUpon>Model.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adduser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loginPng.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\messanger.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\office.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\storage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\upcoming.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WindowPng.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adduserBlur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closeBlur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loginBlur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoutBlur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\messangerBlur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\officeBlur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\searchBlur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\storageBlur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\upcomingBlur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closeApp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimizeApp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\popUp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\okBlur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1461540919_free-17.png" />
+    <None Include="Resources\popUpNoBorder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Model.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model.edmx</DependentUpon>
+      <LastGenOutput>Model.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Model.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model.edmx</DependentUpon>
+      <LastGenOutput>Model.cs</LastGenOutput>
+    </Content>
+    <None Include="Resources\porc.png" />
+    <None Include="Resources\sendBlur.png" />
+    <None Include="Resources\send.png" />
+    <None Include="Resources\messangerPng.png" />
+    <None Include="Resources\loginPng1.png" />
+    <None Include="Resources\enterBlur.png" />
+    <None Include="Resources\enter.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
